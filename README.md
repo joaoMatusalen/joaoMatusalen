@@ -1,7 +1,7 @@
 ### Oi! Me chamo João Victor 👋
 
-- 🔭 Estou atualmente trabalhando com Front-End
-- 🌱 Estou atualmente lendo Html, Css, JavaScript, Node.js
+- 🔭 Atualmente trabalhando com: Front-End
+- 🌱 Estudando: JavaScript, Node.js
 <!--
 **joaoMatusalen/joaoMatusalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
