@@ -25,7 +25,7 @@ Sou apaixonado por dados. Comecei minha jornada com **Excel** e hoje, após mais
 ### 🎮 LoL Analyzer
 Este projeto reúne vários dos meus aprendizados atuais e é um projeto real aplicado.
 
-Estou utilizando:
+Estou utilizando:https://github.com/joaoMatusalen/lol-analyzer
 
 - Estatística
 
