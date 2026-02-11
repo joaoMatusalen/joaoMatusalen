@@ -25,7 +25,7 @@ Sou apaixonado por dados. Comecei minha jornada com **Excel** e hoje, após mais
 ### 🎮 LoL Analyzer
 Este projeto reúne vários dos meus aprendizados atuais e é um projeto real aplicado.
 
-Estou utilizando:https://github.com/joaoMatusalen/lol-analyzer
+Estou utilizando:
 
 - Estatística
 
@@ -37,7 +37,7 @@ Estou utilizando:https://github.com/joaoMatusalen/lol-analyzer
 
 A proposta é criar uma plataforma que analisa todo o seu histórico no League of Legends, desde a primeira partida, gerando métricas, padrões de desempenho e insights sobre sua evolução no jogo.
 
-Confira mais em:
+Confira mais em: https://github.com/joaoMatusalen/lol-analyzer
 
 ### 🛒 Collect Prices
 Esse projeto é sobre meu aprendizado em automação utilizando o **Selenium** e meu gerenciamento de rotinas de automação. O projeto busca coletar os preços dos produtos nas lojas favoritas, fazendo assim uma análise e informando qual é o preço histórico daquele produto.
