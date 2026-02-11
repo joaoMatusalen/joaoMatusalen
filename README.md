@@ -40,7 +40,7 @@ A proposta é criar uma plataforma que analisa todo o seu histórico no League o
 Confira mais em:
 
 ### 🛒 Collect Prices
-Esse projeto é sobre meu aprendizado em automação utilizando o **selenium** e meu gerenciamento em rotinas de automação. Esse projeto busca coletar os preços dos produtos nas lojas favoritas, fazendo assim uma analise e te informando qual é o preço historico daquele produto.
+Esse projeto é sobre meu aprendizado em automação utilizando o **Selenium** e meu gerenciamento de rotinas de automação. O projeto busca coletar os preços dos produtos nas lojas favoritas, fazendo assim uma análise e informando qual é o preço histórico daquele produto.
 
 Confira mais em: https://github.com/joaoMatusalen/collect-prices-in-web
 
